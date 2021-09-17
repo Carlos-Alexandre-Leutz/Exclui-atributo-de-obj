@@ -1,0 +1,1 @@
+# Exclui-atributo-de-obj
